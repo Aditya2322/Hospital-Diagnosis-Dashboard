@@ -46,6 +46,14 @@ st.title('Number of Discharges')
 st.plotly_chart(fig, use_container_width=True)
 
 
+## Setup
+
+1. **Install Python 3.x**
+
+2. **Install dependencies**
+```bash
+pip install streamlit plotly
+
 
 
 
