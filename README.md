@@ -48,7 +48,7 @@ st.plotly_chart(fig, use_container_width=True)
 
 ## Setup
 
-1. **Install Python 3.x**
+1. **Install Python **
 
 2. **Install dependencies**
 ```bash
